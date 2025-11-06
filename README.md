@@ -11,7 +11,11 @@ Thank you for your attencion.
 
 
 
-/*Portuguese-Brazil
+/*
+Portuguese Brazil Language translation
+
+Como usar o github
+
 Este repositório ensina os primeiros passos para usar o GitHub. O público-alvo são estudantes e entusiastas de dados e programação.
 
 Os exemplos são muito simples, para que os alunos entendam o que está acontecendo.
