@@ -1,18 +1,23 @@
-# howtousegithub
-This repository teach your first steps to use The Github. The public is students and enthusiasts of data and programing.
+<h1> howtousegithub </h1>
 
-The examples are very simple, to studants understand that is happening.
+<h2>Description</h2>
+
+This repository teach your first steps to use The Github. The target public are students and enthusiasts of data and programing.
+
+The examples are very simple, to studants understand what is happening.
 
 The intension is simulate all the steps in each separated enviromnent. 
 
-For this, it is necessary pay attencion, treine, test, train, test again.
+For this, it is necessary pay attencion, train, test, train and test again.
 
 Thank you for your attencion.
 
+</br>
+</br>
 
 
-/*
-Portuguese Brazil Language translation
+
+<h2> Portuguese Brazil Language translation </h2>
 
 Como usar o github
 
@@ -25,4 +30,4 @@ A intenção é simular todas as etapas em cada ambiente separado.
 Para isso, é necessário prestar atenção, treinar, testar, treinar novamente e testar mais uma vez.
 
 Obrigado pela sua atenção.
-*/
+
